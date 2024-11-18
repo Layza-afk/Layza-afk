@@ -1,4 +1,3 @@
-## Olá! Me chamo Layza Vitoria 👋
+# Olá! Eu sou Layza Vitoria 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=Layza-afk)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![Linguagens usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Layza-afk&hide_progress=true)
