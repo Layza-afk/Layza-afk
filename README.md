@@ -1,3 +1,4 @@
-# Olá! Eu sou Layza Vitoria 👋
+#Olá! Me chamo Layza Vitoria 👋
+## Dev FrontEnd
 
-![Linguagens usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Layza-afk&hide_progress=true)
+![Skills:](https://github-readme-stats.vercel.app/api/top-langs/?username=Layza-afk&hide_progress=true)
