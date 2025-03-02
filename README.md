@@ -1,5 +1,13 @@
 # Olá! Me chamo Layza Vitoria 👋
 
-## Dev FrontEnd
+## Dev Full Stack
 
-![Skills:](https://github-readme-stats.vercel.app/api/top-langs/?username=Layza-afk&hide_progress=true)
+Skills Front end:
+- HMTL5
+- CSS3
+- JavaScript
+- Bootstrap
+
+Skills Back end:
+- Node
+- Python
