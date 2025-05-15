@@ -9,5 +9,5 @@ Skills Front end:
 - Bootstrap
 
 Skills Back end:
-- Node
+- C#
 - Python
