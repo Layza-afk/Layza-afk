@@ -1,13 +1,22 @@
-# Olá! Me chamo Layza Vitoria 👋
+# Olá! Me chamo Layza Vitoria
+**Dev Back-End**
 
-## Dev Full Stack
+## 💻 Tecnologias
+Linguagens De interesse
++ C#
++ C++
++ Python
++ JavaScript
 
-Skills Front end:
-- HMTL5
-- CSS3
-- JavaScript
-- Bootstrap
+Frameworks
++ .NET
++ Flask
 
-Skills Back end:
-- C#
-- Python
+Ferramentas 
++ Git
++ Github
++ Vs Code
++ Vs community
+  
+## 📂 Projetos em Destaque
+> Em breve 
