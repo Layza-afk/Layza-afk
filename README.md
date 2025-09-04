@@ -2,21 +2,12 @@
 **Dev Back-End**
 
 ## 💻 Tecnologias
-Linguagens De interesse
-+ C#
-+ C++
-+ Python
-+ JavaScript
+|Linguagens De interesse  |Frameworks  |Ferramentas     |
+|:-----------------------:|:----------:|:--------------:|
+|C#                       |.NET        |Git             |
+|C++                      |Flask       |Github          |
+|Python                   |-           |Vs Code         |
+|JavaScript               |-           |Vs community    |
 
-Frameworks
-+ .NET
-+ Flask
-
-Ferramentas 
-+ Git
-+ Github
-+ Vs Code
-+ Vs community
-  
 ## 📂 Projetos em Destaque
 > Em breve 
